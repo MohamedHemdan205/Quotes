@@ -1,0 +1,9 @@
+button:hover{
+    background-color: green !important;
+  
+}
+button{
+    margin-block: 30px;
+    font-size: .8rem;
+    padding-inline: 80px;
+}
